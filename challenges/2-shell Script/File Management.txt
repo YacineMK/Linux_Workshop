@@ -1,0 +1,2 @@
+Write a script that creates a new directory and then creates 3 files within that directory
+
